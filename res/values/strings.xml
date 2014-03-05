@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!--  you can modify what it actually is saying here -->
     <string name="app_name">a0_Android_Hello_World</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="your_paragraph">You started your journey into app programming,
+        
+        \n just think: birds</string>
 
 </resources>
